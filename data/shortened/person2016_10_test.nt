@@ -1,0 +1,3 @@
+<http://object.org> <http://prop.org/propA> "valA" .
+<http://object.org> <http://prop.org/propB> "valC" .
+<http://object.org> <http://prop.org/propC> "valC" .

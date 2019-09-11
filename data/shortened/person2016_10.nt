@@ -1,0 +1,75 @@
+<http://dbpedia.org/resource/Youssef_Amrani> <http://xmlns.com/foaf/0.1/givenName> "Youssef"@en .
+<http://dbpedia.org/resource/Vita_Sackville-West> <http://dbpedia.org/ontology/birthDate> "1892-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Hossak> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Quebec_City> .
+<http://dbpedia.org/resource/William_Hossak> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/William_Hossak> <http://xmlns.com/foaf/0.1/surname> "Hossak"@en .
+<http://dbpedia.org/resource/Youssef_Amrani> <http://purl.org/dc/terms/description> "Moroccan politician"@en .
+<http://dbpedia.org/resource/Lauralee_Bell> <http://xmlns.com/foaf/0.1/name> "Lauralee Bell"@en .
+<http://dbpedia.org/resource/Eddie_Ambrose> <http://dbpedia.org/ontology/deathDate> "1994-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alison_Chesley> <http://xmlns.com/foaf/0.1/givenName> "Alison"@en .
+<http://dbpedia.org/resource/Mathilda_of_Dendermonde> <http://xmlns.com/foaf/0.1/givenName> "Mathilde"@en .
+<http://dbpedia.org/resource/Katsumi_Ch\u014D> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Gunma_Prefecture> .
+<http://dbpedia.org/resource/Vita_Sackville-West> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Sissinghurst_Castle_Garden> .
+<http://dbpedia.org/resource/Mathilda_of_Dendermonde> <http://dbpedia.org/ontology/deathDate> "1224-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Youssef_Amrani> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Lauralee_Bell> <http://xmlns.com/foaf/0.1/gender> "female"@en .
+<http://dbpedia.org/resource/Mathilda_of_Dendermonde> <http://xmlns.com/foaf/0.1/name> "Mathilda of Dendermonde"@en .
+<http://dbpedia.org/resource/Youssef_Amrani> <http://xmlns.com/foaf/0.1/name> "Youssef Amrani"@en .
+<http://dbpedia.org/resource/William_Hossak> <http://xmlns.com/foaf/0.1/givenName> "William"@en .
+<http://dbpedia.org/resource/Vita_Sackville-West> <http://xmlns.com/foaf/0.1/name> "Vita Sackville-West"@en .
+<http://dbpedia.org/resource/Youssef_Amrani> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Tangier> .
+<http://dbpedia.org/resource/Lauralee_Bell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Alison_Chesley> <http://xmlns.com/foaf/0.1/gender> "female"@en .
+<http://dbpedia.org/resource/Majid_Naini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Lauralee_Bell> <http://xmlns.com/foaf/0.1/surname> "Bell"@en .
+<http://dbpedia.org/resource/Eddie_Ambrose> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Mathilda_of_Dendermonde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Alison_Chesley> <http://xmlns.com/foaf/0.1/name> "Alison Chesley"@en .
+<http://dbpedia.org/resource/Mathilda_of_Dendermonde> <http://purl.org/dc/terms/description> "Flemish noblewoman"@en .
+<http://dbpedia.org/resource/Alison_Chesley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Youssef_Amrani> <http://dbpedia.org/ontology/birthDate> "1953-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Lauralee_Bell> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Chicago> .
+<http://dbpedia.org/resource/William_Hossak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Lauralee_Bell> <http://purl.org/dc/terms/description> "American actress"@en .
+<http://dbpedia.org/resource/Alison_Chesley> <http://dbpedia.org/ontology/birthDate> "1960-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Eddie_Ambrose> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Majid_Naini> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Mathilda_of_Dendermonde> <http://dbpedia.org/ontology/birthDate> "1200-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Vita_Sackville-West> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Fraj_Bnouni> <http://xmlns.com/foaf/0.1/name> "Fraj Bnouni"@en .
+<http://dbpedia.org/resource/Katsumi_Ch\u014D> <http://dbpedia.org/ontology/birthDate> "1951-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Fraj_Bnouni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Fraj_Bnouni> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Tunisia> .
+<http://dbpedia.org/resource/William_Hossak> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Quebec_City> .
+<http://dbpedia.org/resource/William_Hossak> <http://purl.org/dc/terms/description> "Canadian politician"@en .
+<http://dbpedia.org/resource/Fraj_Bnouni> <http://purl.org/dc/terms/description> "Tunisian footballer"@en .
+<http://dbpedia.org/resource/Katsumi_Ch\u014D> <http://purl.org/dc/terms/description> "Japanese voice actor"@en .
+<http://dbpedia.org/resource/William_Hossak> <http://dbpedia.org/ontology/birthDate> "1814-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Hossak> <http://dbpedia.org/ontology/deathDate> "1896-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Fraj_Bnouni> <http://dbpedia.org/ontology/birthDate> "1979-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Eddie_Ambrose> <http://purl.org/dc/terms/description> "American jockey"@en .
+<http://dbpedia.org/resource/Majid_Naini> <http://xmlns.com/foaf/0.1/name> "Majid Naini"@en .
+<http://dbpedia.org/resource/Vita_Sackville-West> <http://xmlns.com/foaf/0.1/givenName> "Vita"@en .
+<http://dbpedia.org/resource/Majid_Naini> <http://purl.org/dc/terms/description> "Iranian writer and scholar"@en .
+<http://dbpedia.org/resource/Lauralee_Bell> <http://xmlns.com/foaf/0.1/givenName> "Lauralee"@en .
+<http://dbpedia.org/resource/Fraj_Bnouni> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Katsumi_Ch\u014D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Vita_Sackville-West> <http://dbpedia.org/ontology/deathDate> "1962-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alison_Chesley> <http://xmlns.com/foaf/0.1/surname> "Chesley"@en .
+<http://dbpedia.org/resource/Vita_Sackville-West> <http://xmlns.com/foaf/0.1/gender> "female"@en .
+<http://dbpedia.org/resource/Vita_Sackville-West> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Knole_House> .
+<http://dbpedia.org/resource/Eddie_Ambrose> <http://xmlns.com/foaf/0.1/name> "Eddie Ambrose"@en .
+<http://dbpedia.org/resource/Vita_Sackville-West> <http://purl.org/dc/terms/description> "English writer"@en .
+<http://dbpedia.org/resource/Eddie_Ambrose> <http://dbpedia.org/ontology/birthDate> "1894-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alison_Chesley> <http://purl.org/dc/terms/description> "American musician"@en .
+<http://dbpedia.org/resource/Lauralee_Bell> <http://dbpedia.org/ontology/birthDate> "1968-12-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Youssef_Amrani> <http://xmlns.com/foaf/0.1/surname> "Amrani"@en .
+<http://dbpedia.org/resource/Youssef_Amrani> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Eddie_Ambrose> <http://xmlns.com/foaf/0.1/surname> "Ambrose"@en .
+<http://dbpedia.org/resource/Katsumi_Ch\u014D> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Mathilda_of_Dendermonde> <http://xmlns.com/foaf/0.1/gender> "female"@en .
+<http://dbpedia.org/resource/Eddie_Ambrose> <http://xmlns.com/foaf/0.1/givenName> "Eddie"@en .
+<http://dbpedia.org/resource/Vita_Sackville-West> <http://xmlns.com/foaf/0.1/surname> "Sackville-West"@en .
+<http://dbpedia.org/resource/Katsumi_Ch\u014D> <http://xmlns.com/foaf/0.1/name> "Katsumi Ch\u014D"@en .
+<http://dbpedia.org/resource/William_Hossak> <http://xmlns.com/foaf/0.1/name> "William Hossak"@en .
+
