@@ -3,7 +3,6 @@ http://dbpedia.org/resource/Mathilda_of_Dendermonde
 http://dbpedia.org/resource/Majid_Naini
 http://dbpedia.org/resource/Katsumi_Chō
 http://dbpedia.org/resource/Vita_Sackville-West
-http://dbpedia.org/resource/William_Hossak
 http://dbpedia.org/resource/Alison_Chesley
 http://dbpedia.org/resource/Eddie_Ambrose
 http://dbpedia.org/resource/Lauralee_Bell
